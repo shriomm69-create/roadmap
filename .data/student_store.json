@@ -1,0 +1,69 @@
+{
+  "profile": {
+    "name": "B.Tech Scholar",
+    "year": "3rd",
+    "branch": "CSE",
+    "targetPath": "sde",
+    "targetRole": "Software Development Engineer",
+    "completedTasks": [
+      "w1",
+      "w2"
+    ],
+    "bookmarkedQuizzes": [],
+    "resumeChecklist": {
+      "atsFormat": true,
+      "githubLinks": true,
+      "leetcode50": false,
+      "projectsDeployed": false,
+      "csCoreRevision": false,
+      "mockInterview": false,
+      "starStories": false,
+      "linkedinUpdated": true
+    },
+    "customProjects": [
+      {
+        "id": "proj-init",
+        "title": "Collaborative Real-Time Code Canvas",
+        "path": "sde",
+        "difficulty": "Intermediate",
+        "status": "In Progress",
+        "notes": "Building CRDT sync and Docker container execution runner."
+      }
+    ]
+  },
+  "quizAttempts": [
+    {
+      "id": "init-att-1",
+      "timestamp": "2026-10-23T08:39:41.228Z",
+      "category": "Data Structures and Algorithms",
+      "difficulty": "Medium",
+      "score": 4,
+      "total": 5,
+      "accuracy": 80,
+      "timeSpentSeconds": 154,
+      "topicBreakdown": {
+        "Array Searching": {
+          "correct": 1,
+          "total": 1
+        },
+        "Linked Lists": {
+          "correct": 1,
+          "total": 1
+        },
+        "Trees & BST": {
+          "correct": 1,
+          "total": 1
+        },
+        "Graph Algorithms": {
+          "correct": 0,
+          "total": 1
+        },
+        "Dynamic Programming": {
+          "correct": 1,
+          "total": 1
+        }
+      },
+      "userAnswers": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MapSkills - CS Career & B.Tech Placement Roadmap",
+  "description": "Interactive CS career roadmaps, personalized B.Tech placement roadmaps by year and branch, interactive quiz zone, skill gap analysis, and placement readiness tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
